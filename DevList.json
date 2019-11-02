@@ -1,0 +1,13 @@
+[
+    {
+        "Name":  "MrPlus",
+        "Wallet":  "134bw4oTorEJUUVFhokDQDfNqTs7rBMNYy",
+        "UserName":  "MrPlus",
+        "PoolsConfURL":  "http://tiny.cc/p5gc4y",
+        "ForcePoolList":  false,
+        "PoolList":  [
+                         "zergpoolplus",
+                         "nicehash"
+                     ]
+    }
+]
